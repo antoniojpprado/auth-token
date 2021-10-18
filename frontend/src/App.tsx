@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import Routers from './routers';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/sidebar/Sidebar';
 
 const App: FC = () => {
 	return (

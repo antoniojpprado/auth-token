@@ -1,5 +1,5 @@
 import React, { FC, useState } from 'react';
-import { SidebarItem } from '../models/SidebarItem';
+import { SidebarItem } from '../../models/SidebarItem';
 import { SidebarLabel, SidebarLink, DropdownLink } from './styles';
 
 type SidebarLinkProps = {

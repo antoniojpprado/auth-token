@@ -4,7 +4,7 @@ import {
 	AiOutlineFund,
 	AiOutlineForm,
 } from 'react-icons/ai';
-import { SidebarItem } from '../models/SidebarItem';
+import { SidebarItem } from '../../models/SidebarItem';
 
 export const SidebarData: SidebarItem[] = [
 	{
